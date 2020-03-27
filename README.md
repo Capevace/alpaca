@@ -4,7 +4,7 @@
 	</a>
 	<h1>Alpaca</h1>
 	<p>
-		Elegant Hacker News client for iOS & macOS (Catalyst) built using SwiftUI.
+		An elegant Hacker News client for iOS & macOS (Catalyst) built using SwiftUI.
 	</p>
 </div>
 
@@ -22,13 +22,16 @@
 - iCloud Sync for bookmarks
 - I'll also try to implement some kind of way to post articles & comments to HN, but there's no official API for this so it might be a bit hacky...
 
+
 ## About the project:
 > Learning a new technology without building a real-world application is hard. Building a Hacker News client teaches you some of its most important aspects. They provide a great API, that makes it easy to get started with a UI-related project. *Also I just wanted my own Hacker News client but this sounds way cooler*.
+
 
 ## Screenshots
 ![Screenshot 1](screenshots/whatsapp-tracker-1.png "Screenshot 1")
 ![Screenshot 1](screenshots/whatsapp-tracker-2.png "Screenshot 2")
 ![Screenshot 1](screenshots/whatsapp-tracker-3.png "Screenshot 3")
+
 
 ## Some Notes on SwiftUI
 While SwiftUI is amazing in its simplicity, I also noticed a few limitations during development.
@@ -66,6 +69,7 @@ error: type 'E' has no member 'three'
 ```
 
 Even though I haven't had a chance to check it out yet, this appears to be a major lifesaver for any SwiftUI developer out there! Props to the Swift team! 💚
+
 
 ## Authors
 Lukas Mateffy – [@Capevace](https://twitter.com/capevace) – [mateffy.me](https://mateffy.me)
