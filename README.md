@@ -1,6 +1,6 @@
 <div align="center">
-	<a href="https://mateffy.me/icloud-photos-backup">
-		<img src="screenshots/whatsapp-tracker-icon.png" width="200px">
+	<a href="https://mateffy.me/alpaca">
+		<img src="Alpaca/Assets.xcassets/githubAppIcon.imageset/Alpaca Icon 512.png" width="200px">
 	</a>
 	<h1>Alpaca</h1>
 	<p>
