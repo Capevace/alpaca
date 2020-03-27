@@ -1,0 +1,677 @@
+{
+	"id":22591507,
+	"title":"I am mesmerized by our new robotic vacuum (2019)",
+	"points":97,
+	"user":"mzehrer",
+	"time":1584354921,
+	"time_ago":"3 hours ago",
+	"type":"link",
+	"content":"",
+	"comments":[
+		{
+			"id":22591780,
+			"user":"chewxy",
+			"time":1584358250,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>A good way to explore the algorithms of the robot is to set it out to run in the night. At the entrance of the room, set a high obstruction. Set up a tripod. Take long exposure photos every minute or so. Then turn on the lights&#x2F;wait till day time. Take another photo. Overlay the photos in an editor program. Spot the missing areas.<p>EDIT: here are some examples by other people: <a href=\"https:&#x2F;&#x2F;spectrum.ieee.org&#x2F;automaton&#x2F;robotics&#x2F;home-robots&#x2F;long-exposure-pictures-of-robots-cleaning\" rel=\"nofollow\">https:&#x2F;&#x2F;spectrum.ieee.org&#x2F;automaton&#x2F;robotics&#x2F;home-robots&#x2F;lon...</a><p>And here are some resources if you have a Xiaomi robot vacuum cleaner (also sold as RoboRock) <a href=\"https:&#x2F;&#x2F;github.com&#x2F;dgiese&#x2F;dustcloud\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dgiese&#x2F;dustcloud</a>",
+			"comments":[
+				{
+					"id":22592447,
+					"user":"jwandborg",
+					"time":1584365251,
+					"time_ago":"13 minutes ago",
+					"type":"comment",
+					"content":"<p>I&#x27;m assuming you forgot to mention the light on the robot in the dark.<p>In order to get the progression of the run, you could have an RGB LED sweeping through a color scale during the run.",
+					"comments":[
+                        {
+                            "id":22522447,
+                            "user":"jwandborg",
+                            "time":1584365251,
+                            "time_ago":"13 minutes ago",
+                            "type":"comment",
+                            "content":"<p>I&#x27;m assuming you forgot to mention the light on the robot in the dark.<p>In order to get the progression of the run, you could have an RGB LED sweeping through a color scale during the run.",
+                            "comments":[
+
+                            ],
+                            "comments_count":0,
+                            "level":2,
+                            "url":"item?id=22592447"
+                        },
+                        {
+                            "id":21592447,
+                            "user":"jwandborg",
+                            "time":1584365251,
+                            "time_ago":"13 minutes ago",
+                            "type":"comment",
+                            "content":"<p>I&#x27;m assuming you forgot to mention the light on the robot in the dark.<p>In order to get the progression of the run, you could have an RGB LED sweeping through a color scale during the run.",
+                            "comments":[
+
+                            ],
+                            "comments_count":0,
+                            "level":2,
+                            "url":"item?id=22592447"
+                        }
+					],
+					"comments_count":2,
+					"level":1,
+					"url":"item?id=22592447"
+				},
+				{
+					"id":22592438,
+					"user":"amelius",
+					"time":1584365166,
+					"time_ago":"14 minutes ago",
+					"type":"comment",
+					"content":"<p>And make sure that any LED on the robot is visible from the direction of the camera regardless of the orientation of the robot ;)",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592438"
+				},
+				{
+					"id":22591950,
+					"time":1584360135,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"[deleted]",
+					"deleted":true,
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22591950"
+				}
+			],
+			"comments_count":5,
+			"level":0,
+			"url":"item?id=22591780"
+		},
+		{
+			"id":22591891,
+			"user":"aasasd",
+			"time":1584359484,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>I bought a robotic vacuum more out of curiosity and to see if I should buy one as a gift for my parents. Just one of the cheapest models that still had good reviews.<p>It turned out that all deficiencies of such a vacuum are offset by its basic function: it keeps the apartment clean each day, every day. Dirty corners? Weak suction? Small container? Somewhat noisy? Not too smart? Gets stuck sometimes? I need to clean hairs out of the rotating brush? I still have to mop the place? Pffft, none of this matters when the carpet and the kitchen are dust-free <i>every day</i> without me doing the vacuuming. If it misses a spot today, it will get it tomorrow. After a few runs the floor is indeed cleaner than it ever was, and stays that way. No rogue crumbs stuck to my feet before the cleanup day. Still managed to find something unpleasant on the floor? Just give the robot a bit of work right here. It&#x27;s like SSDs after HDDs: you have to worry about having backups, but it&#x27;ll be amazing in the meantime.<p>Rather prophetically, the cheap production has shown itself when something got cooked in the electronic insides and the vac entered the eternity of ‘error 03’.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22591891"
+		},
+		{
+			"id":22592195,
+			"user":"dharma1",
+			"time":1584362824,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>I&#x27;ve had the Xiaomi one for a couple of years, the one with lidar. It&#x27;s great. Used to love watching the app as the little guy gets to work and the map starts building realtime.<p>It runs Ubuntu, you can root it. And even get spotify running on it.<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;dgiese&#x2F;dustcloud\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dgiese&#x2F;dustcloud</a><p><a href=\"https:&#x2F;&#x2F;medium.com&#x2F;@anxodio&#x2F;how-to-get-spotify-working-on-your-xiaomi-vacuum-da28c52bbb4e\" rel=\"nofollow\">https:&#x2F;&#x2F;medium.com&#x2F;@anxodio&#x2F;how-to-get-spotify-working-on-yo...</a>",
+			"comments":[
+				{
+					"id":22592364,
+					"user":"StavrosK",
+					"time":1584364543,
+					"time_ago":"24 minutes ago",
+					"type":"comment",
+					"content":"<p>Is rooting it worth it? I have one but I haven&#x27;t bothered with rooting it yet. It would be worth it if I could start-stop it locally, as the app has to go through China and the latency is ~2 seconds, which is terrible.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592364"
+				},
+				{
+					"id":22592215,
+					"user":"bigpeet",
+					"time":1584363008,
+					"time_ago":"an hour ago",
+					"type":"comment",
+					"content":"<p>I&#x27;ve recently got a Xiaomi one myself. Will look into these ressources, thanks.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592215"
+				}
+			],
+			"comments_count":2,
+			"level":0,
+			"url":"item?id=22592195"
+		},
+		{
+			"id":22592527,
+			"user":"mrvenkman",
+			"time":1584365918,
+			"time_ago":"a minute ago",
+			"type":"comment",
+			"content":"<p>In the UK you can currently buy this model for £179.99: <a href=\"https:&#x2F;&#x2F;www.eufylife.com&#x2F;uk&#x2F;products&#x2F;variant&#x2F;robovac-30c&#x2F;T2118211\" rel=\"nofollow\">https:&#x2F;&#x2F;www.eufylife.com&#x2F;uk&#x2F;products&#x2F;variant&#x2F;robovac-30c&#x2F;T21...</a>",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592527"
+		},
+		{
+			"id":22592051,
+			"user":"ballballball",
+			"time":1584361570,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>I too bought a robotic vacuum out of curiosity (high end iRobot) and found the algorithm to be completely inadequate both in it&#x27;s mapping and it&#x27;s ability to adequately cover the area that it was supposed to clean. Additionally it left random patterns in the carpet that could only be described as a drunk toddler vacuuming... in other words, it didn&#x27;t look clean. It took more than 3 days to map the three rooms that it was supposed to clean, getting stuck away from it&#x27;s base unable to return because it&#x27;s charge ran out. It would also get stuck under my bed. I&#x27;m not certain how it&#x27;s possible that it could have done a worse job. I waited for years to enter the robot vacuum market and can state unequivocally that waiting 9 generations wasn&#x27;t enough of a wait.",
+			"comments":[
+				{
+					"id":22592187,
+					"user":"sumedh",
+					"time":1584362747,
+					"time_ago":"an hour ago",
+					"type":"comment",
+					"content":"<p>You should have got the Roborock S6, I have the S5 (older model) and its surprisingly good for around 300 USD.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592187"
+				},
+				{
+					"id":22592277,
+					"user":"gbrown",
+					"time":1584363678,
+					"time_ago":"39 minutes ago",
+					"type":"comment",
+					"content":"<p>The Neato vacuums do a much better job in this respect IMHO. They figure out the space with lidar and use a rectangular pattern.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592277"
+				}
+			],
+			"comments_count":2,
+			"level":0,
+			"url":"item?id=22592051"
+		},
+		{
+			"id":22592460,
+			"user":"6510",
+			"time":1584365384,
+			"time_ago":"10 minutes ago",
+			"type":"comment",
+			"content":"<p>I think it could be perfect if you do something like Bose and measure the building before installing the bots.<p>As a professional cleaner I have the following suggestion:<p>Make A cleaning schedule with different frequencies for different tasks. For humans you have to limit complexity, the robot cant get enough of it.<p>The trick is to do a great job with the least runtime and perfect timing.<p>1 (Highest frequency): The visible areas when walking from the front door to the seat where your guests will sit. The entire house can be either 1) a complete mess, it will still look clean. Or 2) the entire house can be supper clean it still wont look clean.<p>Some cameras would be nifty here.<p>1.1: edges for 1<p>2: Same as 1 for all frequently used paths in the house except those covered by 1. Could split this up into levels of frequency.<p>2.1: edges for 2<p>3rd: All open surfaces not covered by 1 and 2.<p>3.1: all edges not covered by 1.1 and 2.1<p>The edges are done roughly every 4th round.<p>The 1st it can do multiple times per day depending on traffic. (1 times is a good minimum) It could by a dynamic number based on motion sensors. Timing is everything, if the room is empty it can do its thing for 2-3 minutes (quit if someone walks in) Nr 2 is done half to 1&#x2F;3 as frequent as 1. Nr 3 is done half to 1&#x2F;3 as frequent as 2.<p>I&#x27;ve used the above system for years and it continues to amaze me how quick one can execute the routine and how clean everything looks. Nr 1 sometimes takes no more than a gaze around the room.<p>Without such system one just does &quot;everything&quot; every time which is a lot more work than it seems. (enough work to cut the same corners every time) The result also looks really inferior.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592460"
+		},
+		{
+			"id":22591723,
+			"user":"jspash",
+			"time":1584357508,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>I&#x27;m still in the cynic camp for a few reasons.\n1. My flat is small. I can do a decent vac in about 15 minutes. 30 minutes if I do under the bed.\n2. When I do the &quot;big vac&quot;, I have to move 6 dining room chairs. Then shift the table a few inches. Zoom. Shift if back. Same goes for some other legged furniture.\n3. I also do the windowsills. No bot can do this.\n4. Don&#x27;t you end up with little arched dust patterns in every corner of every room? How does a round vacuum do this? Seriously! This is the deal-breaker for me unless they have some little robot-wars-style dust-brush that shoots out to get into the 90 degree angles.<p>All that said, I really really want one!",
+			"comments":[
+				{
+					"id":22592467,
+					"user":"Yizahi",
+					"time":1584365425,
+					"time_ago":"10 minutes ago",
+					"type":"comment",
+					"content":"<p>It is especially noticeable if you have a cat or dog. Even through weekly cleaning with a powerful &quot;normal&quot; vacuum cleaner won&#x27;t help with everyday hair and dust accumulation. And personally I&#x27;m often too lazy even for a once per week cleaning. This thing (I have Roomba 960) collects most of the dirt in the most visible places. It really makes a difference. And corners don&#x27;t matter in a big picture where every furniture item collects a ton of dust in hard to reach places.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592467"
+				},
+				{
+					"id":22591866,
+					"user":"sigwinch28",
+					"time":1584359210,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"<p>My housemate and I have the exact same vacuum as OP: a Eufy Robovac 30C.<p>1) It runs around our flat which I think we could vacuum <i>well</i> in about 15-20 minutes, perhaps similar to yours in size.<p>2) The vacuum happily bumbles around under our table and chairs and it seems to do a pretty good job. If we want it to clean where the chairlegs are, we just move the chairs against the wall the night before and move them back the following evening when we get back from work.<p>3) I feel like this is a cheap shot: it doesn&#x27;t clean bathtubs or toilet bowls either (and like windowsills, it doesn&#x27;t advertise to clean those, either).<p>4) No. It may be round, but it has two rotating brushes placed towards the front which get dust and crumbs out of corners, but the brush&#x2F;vacuum portion itself <i>does not</i> reach right to the edges of the machine, so you&#x27;re unlikely to get deep cleaning on the edges of carpets.<p>Overall I&#x27;m very impressed with it: it consistently comes back with a lot of dust and crumbs in its bin (we run it Mon, Wed, Fri), replacement parts (e.g. brushes) are <i>cheap</i> from the usual suspects in China, the edge cleaning is more intelligent than discussed by the linked article, and the floor under our sofa (a heavy 3-seater) has never been so consistently dust-free.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22591866"
+				},
+				{
+					"id":22591773,
+					"user":"Tade0",
+					"time":1584358167,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"<p>They have a brush.<p>I&#x27;ve found that while it doesn&#x27;t do a lot of what a human would, it can do it <i>daily</i>. In my case the time savings made it pay for itself in half a year.",
+					"comments":[
+						{
+							"id":22591881,
+							"user":"distances",
+							"time":1584359380,
+							"time_ago":"2 hours ago",
+							"type":"comment",
+							"content":"<p>&gt; I&#x27;ve found that while it doesn&#x27;t do a lot of what a human would, it can do it daily. In my case the time savings made it pay for itself in half a year.<p>My home has pretty high thresholds&#x2F;doorsteps (what are they even called?), and the robot always gets stuck. Thus, we clean together once a week: it does the vacuuming, and I clean the bathroom, kitchen etc and help it go where it wants.<p>This kinda works, but I wonder if there are models specifically with higher clearing for getting over bigger obstacles?",
+							"comments":[
+
+							],
+							"comments_count":0,
+							"level":2,
+							"url":"item?id=22591881"
+						},
+						{
+							"id":22591908,
+							"user":"scandinavegan",
+							"time":1584359644,
+							"time_ago":"2 hours ago",
+							"type":"comment",
+							"content":"<p>Also at the same time as you&#x27;re doing something else. I often run the roomba as I clean other stuff or do the dishes when I prepare for a visitor. If you run it daily or every other day, the first couple of days it&#x27;s full of dust and hair, then less and less. I view this as evidence that it&#x27;s needed.<p>I don&#x27;t dare keep it on a schedule nowadays, because I have kids who leave stuff on the floor everywhere, including charging cables for phones that can get tangled up in the roomba. What I usually do is a quick check under the couch and tv bench, then start it manually when I leave for work.",
+							"comments":[
+
+							],
+							"comments_count":0,
+							"level":2,
+							"url":"item?id=22591908"
+						}
+					],
+					"comments_count":2,
+					"level":1,
+					"url":"item?id=22591773"
+				},
+				{
+					"id":22591801,
+					"user":"drakonka",
+					"time":1584358478,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"<p>I have a Roomba s9 and a Dyon v10 in a 48sqm apartment. The Roomba does not replace the Dyson, but in terms of floors the Dyson is mostly reserved for spot-cleaning. The S9 gets all the edges, and goes around each table and chair leg (though I prefer to put the chairs up on the table for easier reach).<p>The only thing I hate is that it gets stuff trapped in there so easily. It is meant to have some sort of anti-cord-catching technology, but unless I am very careful I will find it eating a charger or a cat toy or something. It also takes longer than my handheld vacuum, but I don&#x27;t mind that - often I just quickly pick things up before I run out to the store and let it run as I leave, and then come home to a vacuumed apartment.<p>My cats also prefer the Roomba even though the noise is comparable. They hide from the Dyson, but couldn&#x27;t give a crap about the robot running around.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22591801"
+				},
+				{
+					"id":22591923,
+					"user":"misnome",
+					"time":1584359821,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"<p>It doesn&#x27;t 100% remove the need for a manual clean&#x2F;vacuum completely, you still have to run over the places it doesn&#x27;t get - occasionally - and yes obviously it doesn&#x27;t do raised surfaces, windowsills, stairs or the upper corners of the ceiling... and obviously how much benefit you get depends on your home layout.<p>We&#x27;ve the exact same model as the article, bought on a sale last year for ~£180, and have been incredibly satisfied. The difference between a once a week&#x2F;fortnight deeper clean and having it run over every day (before we get up!) has been incredibly obvious. It has also added an... incentive to avoid floor clutter.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22591923"
+				},
+				{
+					"id":22592090,
+					"user":"bootlooped",
+					"time":1584361886,
+					"time_ago":"an hour ago",
+					"type":"comment",
+					"content":"<p>The value proposition is that they can do 90% of the job with 10% of the effort. It takes me 1-2 minutes to pick up stray socks and usb cords and start the vacuum right before I walk out the door for work. The things it doesn&#x27;t do can be dealt with with a broom and duster, and that ends up being very infrequent.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592090"
+				},
+				{
+					"id":22591790,
+					"user":"gambiting",
+					"time":1584358358,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"<p>So we have a roomba, and hands down that&#x27;s one of my favourite devices that we own - we just pretty much never have to hoover downstairs, it starts automatically at 9am every morning, we come home to a clean house, it&#x27;s amazing. When we need to clean the upstairs bedrooms I can just leave it there, press start, and it does its thing and we can go and have dinner in the meantime. Yes, you still have to hoover manually from time to time. No, it doesn&#x27;t do corners very well. But the fact that it can automatically clean at least one level of your house every single day is just incredible.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22591790"
+				},
+				{
+					"id":22591796,
+					"user":"krisoft",
+					"time":1584358398,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"<p>1; Same here. I still prefer to do other things with my time. Of course this is a luxury, but an affordable one.<p>4; There is a  side brush (maybe even two) on most models. For the exact reason you mention.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22591796"
+				}
+			],
+			"comments_count":10,
+			"level":0,
+			"url":"item?id=22591723"
+		},
+		{
+			"id":22592325,
+			"user":"voiper1",
+			"time":1584364210,
+			"time_ago":"30 minutes ago",
+			"type":"comment",
+			"content":"<p>I got a robo-vac, but ultimately stopped using it because of chairs and children.\nI had to clean up in order to run it at all, and it would get stuck under the chairs and not be able to get out. (I guess exactly the wrong sizing.)<p>I mainly got it because my wife and I have a dust-mite allergy and cleaning the floor with water or HEPA vacuum can help.\nWe&#x27;ve replaced it with a much more expensive (and totally manual) hizero[1] wet vacuum, and it&#x27;s great. Also, we have tile floors so wet always cleans better than a vacuum (and wet pads need to be cleaned&#x2F;replaced way too often on a robo-vacuum).<p>[1] <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=og8lhk3oZe8\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=og8lhk3oZe8</a>",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592325"
+		},
+		{
+			"id":22592153,
+			"user":"alfiedotwtf",
+			"time":1584362515,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>Yep.<p>Another one is watching 3D printer’s. There’s something soothing with just starting at the print head while the plastic oozes out and creates something tangible. It’s Star Trek’s replicator v0.00001. After a while, you realise you’ve been staring at it for 45 minutes.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592153"
+		},
+		{
+			"id":22591713,
+			"user":"klausjensen",
+			"time":1584357421,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>Great read!<p>15 years ago, I had one of the first robot lawnmovers (Husqvarna) and did exactly the same thing: Watched it for hours, observing how it worked.<p>Back then, it seems it was programmed with instructions:<p>- Go! If you hit an edge, rotate in a random direction and ... Go!\n- If crossing the base-wire (a buried wire leading to the base station) while battery level &lt; 40%, follow it and charge.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22591713"
+		},
+		{
+			"id":22592282,
+			"user":"samsolomon",
+			"time":1584363731,
+			"time_ago":"38 minutes ago",
+			"type":"comment",
+			"content":"<p>Robot vacuums have been such a game changer for me. It&#x27;s funny because functionally they are worse than a cordless sick or full-size vacuum in almost every way. However being able to turn it on before I head for work everyday makes a giant difference.<p>One thing I am skeptical of is robot vacuums that connect to the internet. Some of the higher end Roombas do that and I&#x27;m skeptical that it makes them more efficient. Wrote some more about it here:<p><a href=\"https:&#x2F;&#x2F;productdork.com&#x2F;t&#x2F;whats-the-best-robot-vacuum-cleaner&#x2F;24&#x2F;3\" rel=\"nofollow\">https:&#x2F;&#x2F;productdork.com&#x2F;t&#x2F;whats-the-best-robot-vacuum-cleane...</a><p>The good news is that the Eufy&#x27;s seem to work fine without any internet connectivity. I&#x27;ve got the Eufy RoboVac 11S and would highly recommend it. Unlike my previous Roomba, it doesn&#x27;t speed up before bumping into things—it mostly avoids it. Also, it is significantly quieter.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592282"
+		},
+		{
+			"id":22592100,
+			"user":"rini17",
+			"time":1584361970,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>Nobody seems to mention: How do you empty the dust compartment without stirring up the dust?<p>My vacuum (Robzone) collects it in plastic box that is to be opened and cleaned out into trashbin with attached brush, the dust inevitably gets airborne.",
+			"comments":[
+				{
+					"id":22592485,
+					"user":"Yizahi",
+					"time":1584365586,
+					"time_ago":"7 minutes ago",
+					"type":"comment",
+					"content":"<p>You stop caring about 1% of dust escaping after a few cleanings :)",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592485"
+				},
+				{
+					"id":22592121,
+					"user":"6510",
+					"time":1584362222,
+					"time_ago":"an hour ago",
+					"type":"comment",
+					"content":"<p>do it outside or spray water into it",
+					"comments":[
+						{
+							"id":22592177,
+							"user":"teraku",
+							"time":1584362678,
+							"time_ago":"an hour ago",
+							"type":"comment",
+							"content":"<p>This. I use a bag free (manual) vacuum and I even though I can manage it without water and not create too much airborne dust, if you just spray water it slightly it will stick to eachother and become big balls.",
+							"comments":[
+
+							],
+							"comments_count":0,
+							"level":2,
+							"url":"item?id=22592177"
+						},
+						{
+							"id":22592180,
+							"user":"rini17",
+							"time":1584362722,
+							"time_ago":"an hour ago",
+							"type":"comment",
+							"content":"<p>Doing it outside already.<p>There is also paper hepa filter on it that can&#x27;t get wet. Even so, not sure if mucking with dirty water is worth it.",
+							"comments":[
+
+							],
+							"comments_count":0,
+							"level":2,
+							"url":"item?id=22592180"
+						}
+					],
+					"comments_count":2,
+					"level":1,
+					"url":"item?id=22592121"
+				}
+			],
+			"comments_count":4,
+			"level":0,
+			"url":"item?id=22592100"
+		},
+		{
+			"id":22592028,
+			"user":"rubidium",
+			"time":1584361229,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>My in-laws just got one for their lake house, and it’s been equally fun to watch.<p>It’s the perfect thing for there because the last thing you want to do after a relaxing weekend at the lake is vacuum. Just hit go before leaving and you’re set.<p>Now I’m curious about the lawn ones. Anyone have any experience to share?",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592028"
+		},
+		{
+			"id":22592151,
+			"user":"pabs3",
+			"time":1584362474,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>In case folks are interested in digging deeper, there is libre robot vacuum firmware:<p><a href=\"https:&#x2F;&#x2F;librervac.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;librervac.org&#x2F;</a>",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592151"
+		},
+		{
+			"id":22592225,
+			"user":"aabajian",
+			"time":1584363103,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>I have Eufy and a tiny 450 sq. ft. condo. I&#x27;m still amazed at how much dirt the vacuum picks up. 15 min of manual vacuuming is nothing compared to 2 continuous hours. Now that I have a dog, for $200, it&#x27;s a no-brainer. When I come home it&#x27;s a noticeable difference.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592225"
+		},
+		{
+			"id":22592231,
+			"user":"amelius",
+			"time":1584363180,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>I suspect there is some bias going on here. I bet if you just watched a simulation of the robot (which could probably even run in the browser), you wouldn&#x27;t be all that impressed. The fact that it has motors and that it moves makes it cool.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592231"
+		},
+		{
+			"id":22592208,
+			"user":"tasubotadas",
+			"time":1584362943,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>I have exactly the same model and I had exactly the same experience. I was mesmerized by the device to see how it would reach my entire apartment following really simple algos.<p>Also, I also had very little expectations in the beginning (just a bit less dust) but it did really amazing job.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592208"
+		},
+		{
+			"id":22592079,
+			"user":"Damogran6",
+			"time":1584361776,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>I Bought 2.5-ish Roombas, maybe paid MSRP for one, and bought (and repaired) a couple of refurb units off Woot a decade or so ago.<p>It was an interesting exercise, and if our pet-load was a little lighter (I&#x27;d hate to see it get caught in Macaw Poop) I&#x27;d consider doing it again.<p>But.<p>They do wear and there was maintenance, and the batteries did lose capacity, and I eventually wandered away from them because there was a lot of labor in a labor saving device.<p>Maybe a mop for the trailer?",
+			"comments":[
+				{
+					"id":22592391,
+					"user":"whoisthemachine",
+					"time":1584364760,
+					"time_ago":"21 minutes ago",
+					"type":"comment",
+					"content":"<p>On the battery front - many of them are carrying lithium-ion batteries these days instead of the old nickel-metal hydride batteries that the older Roombas used, so their battery life is much better, until it&#x27;s not.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22592391"
+				}
+			],
+			"comments_count":1,
+			"level":0,
+			"url":"item?id=22592079"
+		},
+		{
+			"id":22591761,
+			"user":"roland35",
+			"time":1584358048,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>Working on robotic lawn mowers - I still had the same feeling watching them do their thing. You can get pretty far with random turns with some edge following.<p>One thing that can help a lot is gps (or other absolute position). This can definitely help make sure your robot can make roughly the correct turn to get in those nooks.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22591761"
+		},
+		{
+			"id":22591764,
+			"user":"trqx",
+			"time":1584358064,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>Looks like I cannot comment on dev.to but @deciduously should definitely give netlogo a try: <a href=\"https:&#x2F;&#x2F;ccl.northwestern.edu&#x2F;netlogo&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;ccl.northwestern.edu&#x2F;netlogo&#x2F;</a><p>See existing models here: <a href=\"https:&#x2F;&#x2F;ccl.northwestern.edu&#x2F;netlogo&#x2F;models&#x2F;index.cgi\" rel=\"nofollow\">https:&#x2F;&#x2F;ccl.northwestern.edu&#x2F;netlogo&#x2F;models&#x2F;index.cgi</a><p>You can share your results as HTML if that&#x27;s your thing.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22591764"
+		},
+		{
+			"id":22592073,
+			"user":"sytelus",
+			"time":1584361741,
+			"time_ago":"an hour ago",
+			"type":"comment",
+			"content":"<p>Future generations will look to us in amusement that in 2020 only thing robots could do people’s home was vacuuming.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22592073"
+		},
+		{
+			"id":22591695,
+			"user":"KaoruAoiShiho",
+			"time":1584357257,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>googled it apparently eufy is a brand of anker. suddenly not surprised by the price&#x2F;quality.",
+			"comments":[
+
+			],
+			"comments_count":0,
+			"level":0,
+			"url":"item?id=22591695"
+		},
+		{
+			"id":22591916,
+			"user":"KarlKemp",
+			"time":1584359745,
+			"time_ago":"2 hours ago",
+			"type":"comment",
+			"content":"<p>I’m immediately put off by the second ‘graphs being fully devoted to publicly putting his girlfriend in her place?<p>We learn it’s „impulsive“ for her to make spending decisions (for him it would have been „decisive“, probably, given the good opportunity and how quick he is to think on his feet). He even moans about being „incapable of being upset“, as if it would be entirely normal, nay <i>expected</i>, to be upset about one‘s spouse making a sub-$200 spending decision.<p>Then he decides to „keep her“, as if it’s entirely his choice.<p>Yes, sure, somewhat outdated role models by themselves are somewhat benign, and probably too widespread to really get upset about. But this just stood out for me, somehow. Try reading it with reversed roles if you did not notice.",
+			"comments":[
+				{
+					"id":22591947,
+					"user":"gambiting",
+					"time":1584360117,
+					"time_ago":"2 hours ago",
+					"type":"comment",
+					"content":"<p>Or you know, it&#x27;s tongue in cheek. Relationships are not formal, both me and my wife say things to each other which might look &quot;off&quot; without context, but obviously are absolutely fine. You read about a slice of someone&#x27;s life and try to find issues with what you&#x27;re reading, you&#x27;re always going to find them.",
+					"comments":[
+
+					],
+					"comments_count":0,
+					"level":1,
+					"url":"item?id=22591947"
+				}
+			],
+			"comments_count":1,
+			"level":0,
+			"url":"item?id=22591916"
+		}
+	],
+	"comments_count":46,
+	"url":"https://dev.to/deciduously/i-am-mesmerized-by-our-new-robotic-vacuum-10pc",
+	"domain":"dev.to"
+}
